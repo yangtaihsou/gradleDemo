@@ -1,8 +1,9 @@
 # gradleDemo
 Develop tools:
-* IDEA 2020.1(IDEA 14 is wrong to run with Gradle)
-* JDK 1.8
-* Gradle version 6.5.1
+* IDEA 2020.1(IDEA 14 is wrong to run with Gradle). Otherwise occur error before open
+> you should upgrade your tooling api client to version 3.0 or later
+* JDK 1.8.
+* Gradle version 6.5.1.
 * Springboot version 2.3.2.RELEASE.
 -------------
 # How to install Gradle plugin?
@@ -20,4 +21,5 @@ Develop tools:
     Done installing!
     Setting gradle 6.5.1 as default.
   * Check it with command `gradle -v`.
+  * Refer link: https://www.cnblogs.com/meitian/p/12129857.html
   
